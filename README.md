@@ -1,6 +1,7 @@
 # CANZSL ACM MM
-code for the paper.
+code for the paper [CANZSL: Cycle-Consistent Adversarial Networks for Zero-Shot Learning from Natural Language](https://arxiv.org/pdf/1909.09822.pdf).
 
+The code is based on the implementation of GAZSL [1].
 
 Data:
 You can download the dataset [CUBird and NABird](https://drive.google.com/open?id=1YUcYHgv4HceHOzza8OGzMp092taKAAq1)   
