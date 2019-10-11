@@ -1,5 +1,5 @@
 # CANZSL: Cycle-Consistent Adversarial Networks for Zero-Shot Learning from Natural Language
-code for the paper [CANZSL: Cycle-Consistent Adversarial Networks for Zero-Shot Learning from Natural Language](https://arxiv.org/pdf/1909.09822.pdf).
+code for the paper [CANZSL: Cycle-Consistent Adversarial Networks for Zero-Shot Learning from Natural Language](https://arxiv.org/pdf/1909.09822.pdf) WACV 2020.
 
 The code is based on the implementation of GAZSL [1].
 
